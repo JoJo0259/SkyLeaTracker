@@ -1,0 +1,11 @@
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\bin\Debug\netcoreapp2.0\Discord_SkyLea.deps.json
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\bin\Debug\netcoreapp2.0\Discord_SkyLea.runtimeconfig.json
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\bin\Debug\netcoreapp2.0\Discord_SkyLea.runtimeconfig.dev.json
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\bin\Debug\netcoreapp2.0\Discord_SkyLea.dll
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\obj\Debug\netcoreapp2.0\Discord_SkyLea.csprojAssemblyReference.cache
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\obj\Debug\netcoreapp2.0\Discord_SkyLea.csproj.CoreCompileInputs.cache
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\obj\Debug\netcoreapp2.0\Discord_SkyLea.AssemblyInfoInputs.cache
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\obj\Debug\netcoreapp2.0\Discord_SkyLea.AssemblyInfo.cs
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\bin\Debug\netcoreapp2.0\Discord_SkyLea.pdb
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\obj\Debug\netcoreapp2.0\Discord_SkyLea.dll
+C:\Users\jojok\source\repos\Discord_SkyLea\Discord_SkyLea\obj\Debug\netcoreapp2.0\Discord_SkyLea.pdb
